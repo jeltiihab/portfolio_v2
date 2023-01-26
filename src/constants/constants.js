@@ -75,7 +75,7 @@ export const projects = [
       "J'ai développé ce portfolio en apprenant les frameworks javascript les plus populaires comme react.js et next.js.",
     image: '/images/5.png',
     tags: ['React.js', 'Next.js'],
-    source: 'https://github.com/jeltiihab/mynewportfolio',
+    source: 'https://github.com/jeltiihab/portfolio_v2',
     visit: '#',
     id: 4,
   },
